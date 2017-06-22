@@ -1,7 +1,7 @@
 # armstrong-numbers
 Got his from reading an article. Was just interested in understanding what it is. So i found on MITs site a course on it. A bit more knowledge added.
 
-``
+```
 ! ---------------------------------------------------------------
 ! This program computes all Armstrong numbers in the range of 
 ! 0 and 999.  An Armstrong number is a number such that the sum
