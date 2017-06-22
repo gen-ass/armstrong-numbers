@@ -1,5 +1,5 @@
 # armstrong-numbers
-Got his from reading an article. Was just interested in understanding what it is. So i found on MITs site a course on it. A bit more knowledge added.
+Got his from reading an article. Was just interested in understanding what it is. So I found on MITs site a course on it. A bit more knowledge gained. I ran thus from here and quit interesting waht can be discovered from numbers. * https://www.jdoodle.com/execute-fortran-online
 
 ```
 ! ---------------------------------------------------------------
