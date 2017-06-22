@@ -1,5 +1,11 @@
 # armstrong-numbers
-Got his from reading an article. Was just interested in understanding what it is. So I found on MITs site a course on it. A bit more knowledge gained. I ran thus from here and quit interesting waht can be discovered from numbers. * https://www.jdoodle.com/execute-fortran-online
+Got his from reading an article. Was just interested in understanding what it is. So I found on MITs site a course on it. A bit more knowledge gained. I ran thus from here and quit interesting waht can be discovered from numbers. 
+
+# Code execution
+
+To run it I went to this online compiler
+
+* https://www.jdoodle.com/execute-fortran-online
 
 ```
 ! ---------------------------------------------------------------
@@ -33,3 +39,9 @@ PROGRAM  ArmstrongNumber
 
 END PROGRAM  ArmstrongNumber
 ```
+# More
+
+If you want find out more about this topic you read om wikipedia the "founder" and the MIT problem statement on there site
+
+* Mit course(http://www.cs.mtu.edu/~shene/COURSES/cs201/NOTES/chap04/arms.html)
+* More about the armstrong numbers (http://blog.deimel.org/2010/05/mystery-solved.html)
