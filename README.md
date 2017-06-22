@@ -1,4 +1,4 @@
-# armstrong-numbers
+# Armstrong-numbers
 Got his from reading an article. Was just interested in understanding what it is. So I found on MITs site a course about it. A bit more knowledge gained. I ran thus from here and rather interesting what can be discovered from numbers.
 
 # Code execution
